@@ -2,6 +2,6 @@
 
 set -e
 
-export DEVICE=evita
+export DEVICE=mystul
 export VENDOR=htc
 ./../s4-common/extract-files.sh $@
